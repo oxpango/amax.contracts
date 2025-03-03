@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.bios/include/amax.bios/amax.bios.hpp
+eosio/action.hpp
+-
+eosio/crypto.hpp
+-
+eosio/eosio.hpp
+-
+eosio/fixed_bytes.hpp
+-
+eosio/privileged.hpp
+-
+eosio/producer_schedule.hpp
+-
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.bios/src/amax.bios.cpp
+amax.bios/amax.bios.hpp
+-
+

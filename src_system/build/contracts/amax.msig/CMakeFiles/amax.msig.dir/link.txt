@@ -1,0 +1,1 @@
+/usr/local/amax.cdt/bin/amax-ld  CMakeFiles/amax.msig.dir/src/amax.msig.cpp.obj -o amax.msig.wasm 

@@ -1,0 +1,1 @@
+/usr/local/amax.cdt/bin/amax-ld  CMakeFiles/amax.bios.dir/src/amax.bios.cpp.obj -o amax.bios.wasm 

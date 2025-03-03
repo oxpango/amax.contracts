@@ -1,0 +1,14 @@
+# Target labels
+ amax_contracts_project
+# Source files and their labels
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project-complete.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-install.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-mkdir.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-download.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-update.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-patch.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-configure.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-build.rule
+/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-test.rule

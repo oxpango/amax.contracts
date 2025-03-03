@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.reward/include/amax.reward/amax.reward.hpp
+eosio/asset.hpp
+-
+eosio/eosio.hpp
+-
+eosio/singleton.hpp
+-
+eosio/privileged.hpp
+-
+string
+-
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.reward/src/amax.reward.cpp
+amax.reward/amax.reward.hpp
+-
+eosio/system.hpp
+-
+

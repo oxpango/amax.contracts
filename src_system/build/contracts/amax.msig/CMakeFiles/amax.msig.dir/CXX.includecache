@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.msig/include/amax.msig/amax.msig.hpp
+eosio/binary_extension.hpp
+-
+eosio/eosio.hpp
+-
+eosio/ignore.hpp
+-
+eosio/transaction.hpp
+-
+
+/home/gitpod/contracts/amax.contracts/src_system/contracts/amax.msig/src/amax.msig.cpp
+eosio/action.hpp
+-
+eosio/crypto.hpp
+-
+eosio/permission.hpp
+-
+amax.msig/amax.msig.hpp
+-
+

@@ -1,0 +1,1 @@
+/usr/local/amax.cdt/bin/amax-ld  CMakeFiles/amax.reward.dir/src/amax.reward.cpp.obj -o amax.reward.wasm 

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project-complete.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-install.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-download.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-update.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-patch.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-configure.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-build.rule"
+		},
+		{
+			"file" : "/home/gitpod/contracts/amax.contracts/src_system/build/amax_contracts_project-prefix/src/amax_contracts_project-stamp/amax_contracts_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"amax_contracts_project"
+		],
+		"name" : "amax_contracts_project"
+	}
+}

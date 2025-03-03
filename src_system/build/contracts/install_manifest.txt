@@ -1,0 +1,15 @@
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.contracts.version
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.bios/amax.bios.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.bios/amax.bios.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.msig/amax.msig.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.msig/amax.msig.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.system/amax.system.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.system/amax.system.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/rex.results/rex.results.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/rex.results/rex.results.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/powup.results/powup.results.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/powup.results/powup.results.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.token/amax.token.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.token/amax.token.abi
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.reward/amax.reward.wasm
+/home/gitpod/contracts/amax.contracts/src_system/build/install/contracts/amax.reward/amax.reward.abi

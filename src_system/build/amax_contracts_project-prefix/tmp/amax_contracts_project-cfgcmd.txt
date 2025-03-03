@@ -1,0 +1,1 @@
+cmd='/usr/local/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/usr/local/amax.cdt/lib/cmake/amax.cdt/AmaxWasmToolchain.cmake;-DCMAKE_INSTALL_PREFIX:PATH=<INSTALL_DIR>;-DCONTRACT_VERSION_FILE=/home/gitpod/contracts/amax.contracts/src_system/build/version/ContractVersion.cmake;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

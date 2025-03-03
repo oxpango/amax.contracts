@@ -1,0 +1,1 @@
+/usr/local/amax.cdt/bin/amax-ld  CMakeFiles/amax.token.dir/src/amax.token.cpp.obj -o amax.token.wasm 

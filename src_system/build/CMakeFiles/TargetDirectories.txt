@@ -1,0 +1,8 @@
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/install/local.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/install/strip.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/amax_contracts_project.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/list_install_components.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/update_version.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/install.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/edit_cache.dir
+/home/gitpod/contracts/amax.contracts/src_system/build/CMakeFiles/rebuild_cache.dir
