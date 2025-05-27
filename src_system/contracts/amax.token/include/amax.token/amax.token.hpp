@@ -52,6 +52,16 @@ namespace eosio {
          void issue( const name& issuer, const asset& quantity, const string& memo );
 
          /**
+          *  This action issues to `to` account a `quantity` of tokens.
+          *
+          * @param issuer - the account to issue tokens to, it must be the same as the issuer,
+          * @param sym - tokens symbol be issued,
+          * @param newissuer - the new account to issue tokens to.
+          */
+         [[eosio::action]]
+         void setissue( const name& issuer, const symbol& sym, const name& newissuer );
+
+         /**
           * @brief This action slashes account's assets and retire it in the supply
           * 
           * @param target - the account to be slashed

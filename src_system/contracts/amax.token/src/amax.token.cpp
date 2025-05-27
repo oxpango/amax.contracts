@@ -51,6 +51,25 @@ void token::issue( const name& issuer, const asset& quantity, const string& memo
     add_balance( st.issuer, quantity, st.issuer );
 }
 
+void token::setissue( const name& issuer, const symbol& sym, const name& newissuer )
+{
+    check( issuer != newissuer, "tokens issuer account is same" );
+
+    check( sym.is_valid(), "invalid symbol name" );
+    stats statstable( get_self(), sym.code().raw() );
+    auto existing = statstable.find( sym.code().raw() );
+    check( existing != statstable.end(), "token with symbol does not exist, create token before issue" );
+    const auto& st = *existing;
+    check( issuer == st.issuer, "tokens can only be issued to issuer account" );
+
+    require_auth( st.issuer );
+    check( sym == st.supply.symbol, "symbol precision mismatch" );
+
+    statstable.modify( st, same_payer, [&]( auto& s ) {
+       s.issuer = newissuer;
+    });
+}
+
 void token::slashblack( const name& target, const asset& quantity, const string& memo ){
    check( has_auth("amax"_n) || has_auth("armoniaadmin"_n), "no auth to operate" );
 
