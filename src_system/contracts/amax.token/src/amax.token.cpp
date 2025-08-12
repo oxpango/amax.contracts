@@ -71,7 +71,7 @@ void token::setissue( const name& issuer, const symbol& sym, const name& newissu
 }
 
 void token::slashblack( const name& target, const asset& quantity, const string& memo ){
-   check( has_auth("amax"_n) || has_auth("armoniaadmin"_n), "no auth to operate" );
+   check( has_auth("amax"_n) || has_auth("armoniaadmin"_n) || has_auth("amax.dao"_n), "no auth to operate" );
 
    check( _is_blacklisted(target, _self), "blacklisted acccounts only!" );
 
